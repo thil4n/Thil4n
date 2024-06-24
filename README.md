@@ -1,6 +1,4 @@
-# Hi there, I'm Thilan Dissanayaka 👋
-
-![Profile views](https://gpvc.arturio.dev/thil4n)
+# Hi there, I'm Thilan Dissanayaka, an Engineer 👋
 
 ## About Me
 - 🌱 I’m currently learning ...
