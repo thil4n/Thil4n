@@ -20,11 +20,7 @@ Description of the project.
 ### [Another Project](https://github.com/your-username/another-project)
 Description of the project.
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thil4n&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thil4n&layout=compact&theme=radical)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/thil4n)
