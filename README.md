@@ -1,4 +1,7 @@
-# Hi there, I'm Thilan Dissanayaka, an Engineer 👋
+# Hi there 👋, 
+
+I'm Thilan Dissanayaka, 
+an Engineer from Srilanka
 
 ## About Me
 - 🌱 I’m currently learning ...
