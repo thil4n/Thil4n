@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Thilan Dissanayaka.
 
 ## About Me
-- 🌱 An Electrical Engineer and Computer Science enthusiast.
-- 👯 B.Sc. (Hons) in Electrical and Information Engineering, University of Ruhuna
-- 🤔 I’m looking for help with advanced cybersecurity projects and innovative embedded systems.
+- 👷🏻‍♂️ An Electrical Engineer and Computer Science enthusiast.
+- 🎓 B.Sc. (Hons) in Electrical and Information Engineering, University of Ruhuna
+- 🎖️ I’m the CEO of my own company EminenceApps (pvt) ltd.
 - 💬 Ask me about cybersecurity, machine learning, and web development.
 - 📫 How to reach me: thil4n@gmail.com
 - ⚡ Fun fact: I have a deep interest in blockchains and computer networks.
