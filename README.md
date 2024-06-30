@@ -9,12 +9,13 @@
 - ⚡ Fun fact: I have a deep interest in blockchains and computer networks.
 
 ## Interests
-### Cyber Security, Malware analaysis and penetration testing
-### Computer architecture and low level development and 
-### Embedded systems development
+- Cyber Security, Malware analaysis, exploit and shellcode writing.
+- Computer architecture and low level development.
+- Embedded systems development.
+- Web and Mobile application development.
 
 ## Skills
-- **Programming Languages:** Python, Ruby, C, C++, C#, Java, Assembly
+- **Programming Languages:** Python, Ruby, C, C++, C#, Java, Assembly, JavaScript, Dart
 - **Frameworks and Libraries:** MERN stack, React, Next.js, Angular, Vue.js, Tailwind.css, Bootstrap, Redux, CodeIgnitor, Laravel
 - **Tools and Technologies:** Docker, Podman, Node/Express/Nest, PHP, MySQL, MongoDB, REST API, WordPress, Linux administration, CI/CD
 
