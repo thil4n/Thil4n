@@ -17,12 +17,18 @@
 - Computer networking.
 
 ## Skills
-- **Programming Languages:** Python, Ruby, C, C++, C#, Java, Assembly, JavaScript, Dart
-- **Frontend tools and technologoies :** React.js, Next.js, Vue.js, Tailwind.css, Bootstrap, Redux
-- **Backend tools and technologies:** Express.js, Nest.js, MySQL, MongoDB
-- **Mobile application development:** Flutter, React native
-- **Devops:** Docker, Podman, Linux administration, CI/CD
-
+• Programming Languages: Java, Python, JavaScript, C, C++, Assembly, Ballerina, Dart
+• Front-end Development: React, Next, Tailwind CSS.
+• Back-end development: Node.js Nest.js, Express.js, PHP, CodeIgnitor, Larval.
+• Databases: SQL, MongoDB
+• Mobile development: React native, Flutter, Android studio.
+• DevOps: Linux administration, CI/CD, Docker, Jenkins, Computer networking.
+• Tools and technologies: Git, Jira, Figma, Agile development.
+• Malware analysis, Web application security, System exploitation, Exploit development and Shell-coding, Reverse Engineering.
+• Malware analysis, Web application security, System exploitation, Exploit development and Shell-coding, Reverse Engineering.
+• Embedded system development, computer architecture, Linux development.
+• Block-chain development, Cryptocurrency, NFT, and DApps development.
+• Algorithm design, Project planning and management, and Strong communication skills.
 
 
 ## Projects
