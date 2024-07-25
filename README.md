@@ -8,13 +8,12 @@
 - Reach me: thilan@eminenceapps.com
 
 ## Interests
-- Cyber Security, Reverse Engineering, Malware analaysis, exploit and shellcode writing.
-- Computer architecture and low level development for Linux.
-- Blockchans and crypto development
-- Embedded systems development.
-- Web and Mobile application development.
-- PCB, & Electronic circuit development.
-- Computer networking.
+- Cyber Security, Web application attacks, Penetration testing
+- Shell code writing and Exploit development for Windows and Linux.
+- Malware analysis, Reverse Engineering.
+- Network analysis and System exploitation.
+- Embedded systems, Computer architecture and Low-level OS development. • Computer networks, Socket programming.
+- High-performance computing.
 
 ## Skills
 - Programming Languages: Java, Python, JavaScript, C, C++, Assembly, Ballerina, Dart
@@ -24,7 +23,6 @@
 - Mobile development: React native, Flutter, Android studio.
 - DevOps: Linux administration, CI/CD, Docker, Jenkins, Computer networking.
 - Tools and technologies: Git, Jira, Figma, Agile development.
-- Malware analysis, Web application security, System exploitation, Exploit development and Shell-coding, Reverse Engineering.
 - Malware analysis, Web application security, System exploitation, Exploit development and Shell-coding, Reverse Engineering.
 - Embedded system development, computer architecture, Linux development.
 - Block-chain development, Cryptocurrency, NFT, and DApps development.
