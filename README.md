@@ -6,8 +6,8 @@ In simple words,
 I love Computer science!
 
 ## Connect with Me
-- [Resume] (https://thil4n.github.io/thilan-dissanayaka-resume.pdf)
-- [LinkedIn] (https://www.linkedin.com/in/thil4n)
-- [Twitter] (https://twitter.com/thil4n)
-- [Personal blog] (https://hacksland.net)
+- Resume           https://thil4n.github.io/thilan-dissanayaka-resume.pdf
+- LinkedIn         https://www.linkedin.com/in/thil4n
+- Twitter          https://twitter.com/thil4n
+- Personal blog    https://hacksland.net
 
