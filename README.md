@@ -9,5 +9,5 @@ I love Computer science!
 - [Resume] (https://thil4n.github.io/thilan-dissanayaka-resume.pdf)
 - [LinkedIn] (https://www.linkedin.com/in/thil4n)
 - [Twitter] (https://twitter.com/thil4n)
-- [Personal blog](https://hacksland.net)
+- [Personal blog] (https://hacksland.net)
 
