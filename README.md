@@ -1,6 +1,9 @@
 # Hi there 👋, I'm Thilan Dissanayaka.
 
-I'm a final year Engineering undergraduate with a strong background in computer science and over 10 years experience in software development. Interested in Web development, Cyber security, exploitation techniques, Malware analysis, computer architecture, blockchain development, computer networking, and Linux.
+Final-year Engineering undergraduate with a strong foundation in computer science and extensive experience in
+software engineering. Proficient in web development, software architecture, and cybersecurity, with a proven ability
+to build scalable applications and manage the full software development lifecycle. Adept at working with modern
+development frameworks to deliver robust, high-quality solutions.
 
 In simple words,
 I love Computer science!
