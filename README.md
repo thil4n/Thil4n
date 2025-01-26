@@ -16,8 +16,9 @@ I love Computer science!
 - Personal blog    https://hacksland.net
 
 ## Pet projects
-- CPU Simulator with React.js
-- JavaScript Vesak thorana
+- [CPU Simulator with React.js](https://github.com/thil4n/cpu-simulator)  
+- [JavaScript Vesak thorana](https://github.com/thil4n/Tac-Tic-Toe-with-Atmega-2560) 
+- [Tic-Tac-Toe with microcontrollers](https://github.com/thil4n/Tac-Tic-Toe-with-Atmega-2560) 
 
 ## Open source conributions
 - Ballerina web3 library
