@@ -15,3 +15,11 @@ I love Computer science!
 - Twitter          https://twitter.com/thil4n
 - Personal blog    https://hacksland.net
 
+## Pet projects
+- CPU Simulator with React.js
+- JavaScript Vesak thorana
+
+## Open source conributions
+- Ballerina web3 library
+- Introduced Keccak-256 hashing to the Ballerina Crypto library
+- [Ballerina connector for Hubspot Schemas](https://github.com/ballerina-platform/module-ballerinax-hubspot.crm.object.schemas)
