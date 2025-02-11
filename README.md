@@ -9,11 +9,14 @@ In simple words,
 I love Computer science!
 
 ## Connect with Me
+'''
 - Portfolio        https://thil4n.github.io
 - Resume           https://thil4n.github.io/thilan-dissanayaka-resume.pdf
 - LinkedIn         https://www.linkedin.com/in/thil4n
 - Twitter          https://twitter.com/thil4n
 - Personal blog    https://hacksland.net
+- Email            thilan@wso2.com
+'''
 
 ## Research projects
 - [CPU Simulator with React.js](https://github.com/thil4n/cpu-simulator)  
