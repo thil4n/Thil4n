@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Thilan Dissanayaka.
+# Hi 👋, I'm Thilan Dissanayaka.
 
-Final-year Engineering undergraduate with a strong foundation in computer science and extensive experience in
+Fresh Engineering undergraduate with a strong foundation in computer science and extensive experience in
 software engineering. Proficient in web development, software architecture, and cybersecurity, with a proven ability
 to build scalable applications and manage the full software development lifecycle. Adept at working with modern
 development frameworks to deliver robust, high-quality solutions.
