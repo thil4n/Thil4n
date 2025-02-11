@@ -23,7 +23,7 @@ I love Computer science!
 - [LECO AI anabled smart grid system](https://github.com/thil4n/)  
 - [Miracle Mine Production factory software]
 - [NSteel Management software]
-- [DWT LMS software](https://differentwayofteaching.org)
+- [DWT LMS software](https://differentwayofteaching.com)
 
 ## Pet projects
 - [JavaScript Vesak thorana](https://github.com/thil4n/Tac-Tic-Toe-with-Atmega-2560) 
