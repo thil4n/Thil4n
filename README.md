@@ -20,7 +20,7 @@ I love Computer science!
 - [Token validation in Edge computing](https://github.com/thil4n/edge-token-validation)
 
 ## Industrial projects
-- [LECO AI anabled smart grid system](https://github.com/thil4n/)  
+- [LECO AI anabled smart grid system](https://github.com/thil4n/dlms-meter)
 - [Miracle Mine Production factory software]
 - [NSteel Management software]
 - [DWT LMS software](https://differentwayofteaching.com)
