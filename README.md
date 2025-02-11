@@ -21,13 +21,13 @@ I love Computer science!
 - [Token validation in Edge computing](https://github.com/thil4n/edge-token-validation)
 
 ## Industrial projects
-- [LECO AI anabled smart grid system](https://github.com/thil4n/dlms-meter)
+- [LECO AI enabled smart grid system](https://github.com/thil4n/dlms-meter)
 - [Miracle Mine Production factory software]
 - [NSteel Management software]
 - [DWT LMS software](https://differentwayofteaching.com)
 
 ## Pet projects
-- [JavaScript Vesak thorana](https://github.com/thil4n/Tac-Tic-Toe-with-Atmega-2560) 
+- [JavaScript Vesak thorana](https://github.com/thil4n/javascript-vesak-thorana)
 - [Tic-Tac-Toe with microcontrollers](https://github.com/thil4n/Tac-Tic-Toe-with-Atmega-2560)
 - [Multi threaded brutforcing](https://github.com/thil4n/multi-threaded-bruteforce)
 
