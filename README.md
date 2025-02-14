@@ -6,7 +6,7 @@ to build scalable applications and manage the full software development lifecycl
 development frameworks to deliver robust, high-quality solutions.
 
 In simple words,
-I love Computer science!
+I ❤️ Computer science.
 
 ## Connect with Me
 - Portfolio        https://thil4n.github.io
