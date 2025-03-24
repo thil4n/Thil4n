@@ -36,3 +36,5 @@ I ❤️ Computer science.
 - [Ballerina web3 library](https://github.com/thil4n/ballerina-web3)
 - [Keccak-256 hashing to the Ballerina Crypto library](https://github.com/ballerina-platform/module-ballerina-crypto)
 - [Ballerina connector for Hubspot Schemas](https://github.com/ballerina-platform/module-ballerinax-hubspot.crm.object.schemas)
+- [Ballerina Language](https://github.com/ballerina-platform/ballerina-lang/pull/43925)
+- [Ballerina connector for Zoom](https://github.com/thil4n/module-ballerinax-zoom.zmeeting)
