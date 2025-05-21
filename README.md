@@ -1,9 +1,6 @@
 # Hi 👋, I'm Thilan Dissanayaka.
 
-Fresh Engineering undergraduate with a strong foundation in computer science and extensive experience in
-software engineering. Proficient in web development, software architecture, and cybersecurity, with a proven ability
-to build scalable applications and manage the full software development lifecycle. Adept at working with modern
-development frameworks to deliver robust, high-quality solutions.
+Engineering graduate with deep expertise in software engineering and a strong foundation in computer science. Specializing in cybersecurity, with hands-on experience in penetration testing, malware analysis, exploit development, and reverse engineering. Proven ability to secure web applications and APIs, analyze low-level vulnerabilities, and implement robust defense mechanisms.
 
 In simple words,
 I ❤️ Computer science.
