@@ -1,6 +1,6 @@
 # Hi 👋, I'm Thilan Dissanayaka.
 
-Engineering graduate with deep expertise in software engineering and a strong foundation in computer science. Specializing in cybersecurity, with hands-on experience in penetration testing, malware analysis, exploit development, and reverse engineering. Proven ability to secure web applications and APIs, analyze low-level vulnerabilities, and implement robust defense mechanisms.
+I’m currently working at WSO2 as a Security Engineer. An engineering graduate with deep expertise in software engineering and a strong foundation in computer science, I specialize in cybersecurity with hands-on experience in penetration testing, malware analysis, exploit development, and reverse engineering. I have a proven track record of securing web applications and APIs, analyzing low-level vulnerabilities, and implementing robust defense mechanisms.
 
 In simple words,
 I ❤️ Computer science.
