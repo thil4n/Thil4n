@@ -18,7 +18,7 @@ I ❤️ Computer science.
 - [Token validation in Edge computing](https://github.com/thil4n/edge-token-validation)
 
 ## Industrial projects
-- [LECO AI enabled smart grid system](https://github.com/thil4n/dlms-meter)
+- [LECO AI-enabled smart grid system](https://github.com/thil4n/dlms-meter)
 - [Miracle Mine Production factory software]
 - [NSteel Management software]
 - [DWT LMS software](https://differentwayofteaching.com)
@@ -26,9 +26,9 @@ I ❤️ Computer science.
 ## Pet projects
 - [JavaScript Vesak thorana](https://github.com/thil4n/javascript-vesak-thorana)
 - [Tic-Tac-Toe with microcontrollers](https://github.com/thil4n/Tac-Tic-Toe-with-Atmega-2560)
-- [Multi threaded brutforcing tool](https://github.com/thil4n/multi-threaded-bruteforce)
+- [Multi-threaded brute forcing tool](https://github.com/thil4n/multi-threaded-bruteforce)
 
-## Open source conributions
+## Open source contributions
 - [Ballerina web3 tools](https://github.com/thil4n/web3-tools)
 - [Ballerina web3 library](https://github.com/thil4n/ballerina-web3)
 - [Keccak-256 hashing to the Ballerina Crypto library](https://github.com/ballerina-platform/module-ballerina-crypto)
