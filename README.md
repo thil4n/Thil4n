@@ -6,8 +6,8 @@ In simple words,
 I ❤️ Computer science.
 
 ## Connect with Me
-- Portfolio        https://thil4n.github.io
-- Resume           [https://thil4n.github.io/thilan-dissanayaka-resume.pdf](https://thil4n.github.io/assets/Thilan_Dissanayaka_Resume.pdf)
+- Portfolio        https://thilan.dev
+- Resume           [https://thilan.dev/Thilan_Dissanayaka_Resume.pdf](https://thilan.dev/assets/Thilan_Dissanayaka_Resume.pdf)
 - LinkedIn         https://www.linkedin.com/in/thil4n
 - Twitter          https://twitter.com/thil4n
 - Personal blog    https://hacksland.net
