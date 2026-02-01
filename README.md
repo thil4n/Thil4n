@@ -13,6 +13,10 @@ I ❤️ Computer science.
 - Personal blog    https://hacksland.net
 - Email            thilan@wso2.com, thil4n@gmail.com
 
+## Security related projects
+- [Supply Guard](https://github.com/thil4n/supplyguard)
+- [Static Scanner](https://github.com/thil4n/staic-scanner)
+
 ## Research projects
 - [CPU Simulator with React.js](https://github.com/thil4n/cpu-simulator)  
 - [Token validation in Edge computing](https://github.com/thil4n/edge-token-validation)
