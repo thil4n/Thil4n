@@ -13,6 +13,12 @@ I ❤️ Computer science.
 - Personal blog    https://hacksland.net
 - Email            thilan@wso2.com, thil4n@gmail.com
 
+## CVEs
+- [CVE-2025-13590](https://www.cve.org/cverecord?id=CVE-2025-13590) 
+
+## Security acknowledgements
+- [[Supply Guard](https://github.com/thil4n/supplyguard)](https://security.docs.wso2.com/en/latest/security-reporting/reward-and-acknowledgement-program/hall-of-fame/)
+
 ## Security related projects
 - [Supply Guard](https://github.com/thil4n/supplyguard)
 - [Static Scanner](https://github.com/thil4n/staic-scanner)
