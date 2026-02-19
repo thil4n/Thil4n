@@ -16,6 +16,7 @@ I ❤️ Computer science.
 ## Security related projects
 - [Supply Guard](https://github.com/thil4n/supplyguard)
 - [Static Scanner](https://github.com/thil4n/staic-scanner)
+- [API Scanner](https://github.com/thil4n/api-scanner)
 
 ## Research projects
 - [CPU Simulator with React.js](https://github.com/thil4n/cpu-simulator)  
