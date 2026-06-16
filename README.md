@@ -18,6 +18,8 @@ I ❤️ Computer science.
 
 ## Security acknowledgements
 - [WSO2 HoF](https://security.docs.wso2.com/en/latest/security-reporting/reward-and-acknowledgement-program/hall-of-fame/)
+- Department of Examinations, SriLanka
+- Faculty of Engineering, University of Moratuwa
 
 ## Security related projects
 - [Supply Guard](https://github.com/thil4n/supplyguard)
