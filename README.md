@@ -14,7 +14,15 @@ I ❤️ Computer science.
 - Email            thilan@wso2.com, thil4n@gmail.com
 
 ## CVEs
-- [CVE-2025-13590](https://www.cve.org/cverecord?id=CVE-2025-13590) 
+- [CVE-2025-13590](https://www.cve.org/cverecord?id=CVE-13590)
+- [CVE-2026-3418](https://www.cve.org/cverecord?id=CVE-3418)
+- [CVE-2026-5145](https://www.cve.org/cverecord?id=CVE-5145)
+- [CVE-2026-2613](https://www.cve.org/cverecord?id=CVE-2613)
+- [CVE-2026-3415](https://www.cve.org/cverecord?id=CVE-3415)
+- [CVE-2026-13134](https://www.cve.org/cverecord?id=CVE-13134)
+- [CVE-2026-6838](https://www.cve.org/cverecord?id=CVE-6838)
+- [CVE-2026-14166](https://www.cve.org/cverecord?id=CVE-14166)
+- [CVE-2026-13388](https://www.cve.org/cverecord?id=CVE-13388)
 
 ## Security acknowledgements
 - [WSO2 HoF](https://security.docs.wso2.com/en/latest/security-reporting/reward-and-acknowledgement-program/hall-of-fame/)
