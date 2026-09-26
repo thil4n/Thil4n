@@ -50,6 +50,7 @@ I ❤️ Computer science.
 - [JavaScript Vesak thorana](https://github.com/thil4n/javascript-vesak-thorana)
 - [Tic-Tac-Toe with microcontrollers](https://github.com/thil4n/Tac-Tic-Toe-with-Atmega-2560)
 - [Multi-threaded brute forcing tool](https://github.com/thil4n/multi-threaded-bruteforce)
+- [GoFront Simple API Gateway] (https://github.com/thil4n/gofront-api-gateway)
 
 ## Open source contributions
 - [Ballerina web3 tools](https://github.com/thil4n/web3-tools)
